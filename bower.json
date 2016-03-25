@@ -1,0 +1,23 @@
+{
+  "name": "angular-makerange",
+  "main": "angular-makerange.js",
+  "description": "Angular filter for generating arrays containing numbers within a specified range",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "filter",
+    "range"
+  ],
+  "authors": [
+    "Tobias Sijtsma"
+  ],
+  "license": "MIT",
+  "homepage": "http://appiso.de/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
